@@ -2,7 +2,8 @@
 
 > I build systems that scale quietly.
 
-Backend and distributed systems engineer. I care about the 99th percentile, migrations that finish on a Friday night without paging anyone, and the post-mortem you never have to write. I hold an M.S. in Computer Science from Michigan Tech and am open to full-time software engineering roles — backend, infra, platform, systems.
+Backend and distributed systems engineer. I care about the 99th percentile, migrations that finish on a Friday night without paging anyone, and the post-mortem you never have to write. 
+Building Flik currently.
 
 ### Experience
 
@@ -44,6 +45,14 @@ Backend and distributed systems engineer. I care about the 99th percentile, migr
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+### GitHub Activity
+
+![Tavish's GitHub stats](https://github-readme-stats.vercel.app/api?username=tavishsh&show_icons=true&hide_border=true&bg_color=00000000&title_color=3178C6&text_color=808080&icon_color=3178C6)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tavishsh&hide_border=true&background=00000000&stroke=808080&ring=3178C6&fire=3178C6&currStreakLabel=3178C6&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080&dayLabels=808080)](https://github.com/tavishsh)
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=tavishsh&bg_color=00000000&color=808080&line=3178C6&point=3178C6&hide_border=true)
 
 ### Connect
 
