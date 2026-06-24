@@ -1,19 +1,10 @@
 # Tavish Sharma
 
-> I build systems that scale quietly.
-
-Backend and distributed systems engineer. I care about the 99th percentile, migrations that finish on a Friday night without paging anyone, and the post-mortem you never have to write. 
-Building Flik currently.
 
 ### Experience
 
 - **HighRadius** — Software Engineer (2022–2024), starting as an intern. Java, Spring Boot, PostgreSQL, Snowflake, microservices.
 - **Samsung Research** — NLP Intern (2020–2021). Python, PyTorch, Transformers.
-
-### Featured Projects
-
-- **Flik** — Recommendation systems, a browser-based video editor, and the event-driven backend platform behind them. Go, Python, TypeScript/React, Kafka, Redis, ClickHouse.
-- **flik-referral-system** — Spring Boot referral and invite system backed by PostgreSQL, Redis, and Kafka, tested with Testcontainers.
 
 ### Stack
 
