@@ -1,11 +1,5 @@
 # Tavish Sharma
 
-
-### Experience
-
-- **HighRadius** — Software Engineer (2022–2024), starting as an intern. Java, Spring Boot, PostgreSQL, Snowflake, microservices.
-- **Samsung Research** — NLP Intern (2020–2021). Python, PyTorch, Transformers.
-
 ### Stack
 
 **Languages**
